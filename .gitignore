@@ -1,0 +1,5 @@
+# ignore All .log files 
+*.log
+
+# ignore all any temp names fiels 
+temp/
